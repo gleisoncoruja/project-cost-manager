@@ -8,6 +8,8 @@ O curso é de excelente qualidade e totalmente grátis, se você se interessou e
 
 O curso não aborda responsividade, nem bootstrap, então eu fiz responsividade e adicionei o bootstraop ao projeto, também fiz algumas pequenas modificações de designer.
 
+Acesse o exemplo online <a href="https://project-cost-manager.netlify.app/"> clicando aqui </a>
+
 Veja abaixo algumas imagens
 
 <img src="./src/img/git01.gif" alt="Img01">
