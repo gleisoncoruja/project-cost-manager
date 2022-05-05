@@ -10,6 +10,10 @@ O curso não aborda responsividade, nem bootstrap, então eu fiz responsividade 
 
 Acesse o exemplo online <a href="https://project-cost-manager.netlify.app/"> clicando aqui </a>
 
+Mas como a api é virtualizada, não terá como adicionar nada ao conteúdo, porém se você baixar o projeto conseguirá emular um backend usando o comando abaixo
+
+`npm run backend`
+
 Veja abaixo algumas imagens
 
 <img src="./src/img/git01.gif" alt="Img01">
