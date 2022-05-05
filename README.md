@@ -1,4 +1,24 @@
-# Getting Started with Create React App
+# Project Cost Manager - Gerenciador de custos de projeto
+
+Esse projeto foi desenvolvido com base nas aulas do curso de react do <b>Matheus Battisti - Hora de Codar</b>
+
+O curso é de excelente qualidade e totalmente grátis, se você se interessou e quer aprender mais, <a href="https://www.youtube.com/playlist?list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO">acesse aqui a playlist.</a>
+
+<p>Adaptações feitas por mim</p>
+
+O curso não aborda responsividade, nem bootstrap, então eu fiz responsividade e adicionei o bootstraop ao projeto, também fiz algumas pequenas modificações de disigner.
+
+Veja abaixo algumas imagens
+
+<img src="./src/img/git01.gif" alt="Img01">
+
+<img src="./src/img/git02.gif" alt="Img02">
+
+
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

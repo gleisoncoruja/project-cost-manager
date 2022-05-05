@@ -1,0 +1,85 @@
+{
+  "projects": [
+    {
+      "name": "IVEM",
+      "budget": "500",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 6
+    },
+    {
+      "name": "Marido de Alguel",
+      "budget": "45000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 1050,
+      "services": [
+        {
+          "name": "TESTE",
+          "cost": "50",
+          "description": "sadfasdffas",
+          "id": "49b97eec-a076-4f03-8a61-3aff7ffaf943"
+        },
+        {
+          "name": "Contratar Dev php",
+          "cost": "500",
+          "description": "Criar serviço de enviar emails",
+          "id": "8bcf5cd0-48d1-4232-9d44-ba5d2793f75a"
+        },
+        {
+          "name": "WebDesign",
+          "cost": "500",
+          "description": "Cria o design do site",
+          "id": "baba3746-4111-40f8-afe0-8a880ba2490a"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "name": "TESTE",
+      "budget": "45454",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 8
+    },
+    {
+      "name": "meuapp",
+      "budget": "1500",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 9
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
