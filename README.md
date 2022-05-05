@@ -6,7 +6,7 @@ O curso é de excelente qualidade e totalmente grátis, se você se interessou e
 
 <p>Adaptações feitas por mim</p>
 
-O curso não aborda responsividade, nem bootstrap, então eu fiz responsividade e adicionei o bootstraop ao projeto, também fiz algumas pequenas modificações de disigner.
+O curso não aborda responsividade, nem bootstrap, então eu fiz responsividade e adicionei o bootstraop ao projeto, também fiz algumas pequenas modificações de designer.
 
 Veja abaixo algumas imagens
 
